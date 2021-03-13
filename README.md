@@ -10,7 +10,7 @@ Get **perfect** shadows like you've never seen... For non-designers
 Then...
 
 ```js
-import { shadwoo } from 'shadwoo';
+import ({ shadwoo } from 'shadwoo';
 shadwoo{
     myShadwoo: '.shadwoo'
     shadwoo_type: 'medium'
