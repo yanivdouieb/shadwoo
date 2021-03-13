@@ -10,14 +10,14 @@ Get **perfect** shadows like you've never seen... For non-designers
 Then...
 
 ```js
-import ({ shadwoo } from 'shadwoo';
-shadwoo{
-    myShadwoo: '.shadwoo'
-    shadwoo_type: 'medium'
-    shadwoo_opacity: '56'
-    shadwoo_color: '#7792bd'
+import { shadwoo } from 'shadwoo';
+shadwoo({
+    myShadwoo: '.shadwoo',
+    shadwoo_type: 'medium',
+    shadwoo_opacity: '56',
+    shadwoo_color: '#7792bd',
     padding: false
-)};
+});
 ```
 ## OPTIONS
 
